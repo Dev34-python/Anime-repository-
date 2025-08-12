@@ -1,0 +1,34 @@
+{
+  "name": "Purab's Clean Anime Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Gogoanime",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.gogoanime",
+      "version": "1.2.25",
+      "apk": "https://github.com/aniyomiorg/extensions/raw/main/src/en/gogoanime/gogoanime-v1.2.25.apk",
+      "lang": "en"
+    },
+    {
+      "name": "Zoro (AniWatch)",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
+      "version": "1.0.16",
+      "apk": "https://github.com/aniyomiorg/extensions/raw/main/src/en/zoro/zoro-v1.0.16.apk",
+      "lang": "en"
+    },
+    {
+      "name": "AnimePahe",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
+      "version": "1.2.24",
+      "apk": "https://github.com/aniyomiorg/extensions/raw/main/src/en/animepahe/animepahe-v1.2.24.apk",
+      "lang": "en"
+    },
+    {
+      "name": "HentaiHaven",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.hentaihaven",
+      "version": "1.2.9",
+      "apk": "https://github.com/aniyomiorg/extensions/raw/main/src/en/hentaihaven/hentaihaven-v1.2.9.apk",
+      "lang": "en"
+    }
+  ]
+}
